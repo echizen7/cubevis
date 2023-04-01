@@ -1,0 +1,12 @@
+3: False, 25.74
+2: False, 15.53
+1: False, 27.87
+6: True, 44.81
+4: False, 42.19
+5: True, 29.02
+7: True, 30.21
+9: False, 30.72
+8: False, 49.64
+10: False, 33.32
+11: True, 20.80
+12: True, 42.32
